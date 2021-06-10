@@ -1,5 +1,3 @@
 This is a practice file. Hello!
 
-Here is another line.
-
 Doctor Who is awesome.
